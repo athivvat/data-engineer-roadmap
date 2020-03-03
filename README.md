@@ -11,6 +11,33 @@ Currently, I'm studying for a master's degree in Business Analytics and Data Sci
 > “A scientist can discover a new star, but he cannot make one. He would have to ask an engineer to do it for him." — Gordon Lindsay Glegg
 
 Data Engineers are the data professionals who collect, move & store, data preparation to be analyzed by Data Scientists.
+> Data engineering is all about the movement, manipulation, and management of data.
+# Contents
+## Step 1: Introduction
+  - [What is Data Engineering?]()
+  - [Who is Data Engineer?]()
+  - [What Does a Data Engineer Do?]()
+## Step 2: Big Data
+## Step 3: Data Life Cycle
+  - [Generation]()
+  - [Collection]()
+  - [Processing]()
+  - [Storage]() 
+  - [Management]() 
+  - [Analysis]() 
+  - [Interpretation]()
+## Step 4: Batch, Microbatch and Streaming 
+### 4.1 Batch Processing
+### 4.2 Streaming Processing
+  - [Reliability, Throughput, and Flexibility]()
+  - [Message Queue Technologies]()
+    - [Apache Kafka]()
+    - [ActiveMQ]()
+    - [RabbitMQ]()
+    - [Amazon’s Simple Queue Service (SQS)]()
+## Step 5: Distributed Computing
+## Step 6: Cloud Computing
+
 # Certifications
 - [Google Cloud Data Engineer Certification](https://cloud.google.com/certification/data-engineer)
 - [Cloudera Certified Professional Data Engineer](https://www.datasciencegraduateprograms.com/data-engineering/)
